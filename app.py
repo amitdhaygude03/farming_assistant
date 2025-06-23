@@ -24,7 +24,7 @@ def set_background(image_path):
     """
     st.markdown(css, unsafe_allow_html=True)
 
-set_background("farming_background.jpg")  # Replace with your background image
+# set_background("farming_background.jpg")  # Replace with your background image
 
 # ---------- Load ML Model ---------- #
 @st.cache_resource
